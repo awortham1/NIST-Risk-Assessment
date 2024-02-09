@@ -38,7 +38,7 @@
 ![](images/risk-values.png)
 
 #### Threat Likelihood Values:
-![](images/threat-likelihood.png)
+![](images/threat-likelihood1.png)
 
 #### Impact Values:
 ![](images/threat-impact.png)
