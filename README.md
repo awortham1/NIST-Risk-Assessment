@@ -40,7 +40,7 @@
 #### Threat Likelihood Values:
 ![](images/threat-likelihood1.png)
 
-#### Impact Values:
+#### Threat Impact Values:
 ![](images/threat-impact.png)
 
 
