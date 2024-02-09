@@ -2,11 +2,15 @@
 
 ![](images/nist-banner.png)
 
-## Compliance Audit - NIST Least Privilege Controls
-#### NIST AC-6 Least Privilege Control Catalog:
+## Compliance Audit 
+#### NIST 800-53 Revision 5 | AC-6 Least Privilege Control Catalog:
 ![](images/nist-img1.png)
 
-#### NIST AC-6 Compliance Audit Interview:
+### Zoom Interview of CISO and IT Manager
+#### Names: 
+* Jason Branch, CISO
+*  Kathy Johnson, IT Manager
+  
 | Control Identifier | Question  | Response  |
 | ------------- | ------------- | ------------- |
 | AC-6 | How does your organization implement least privilege? Also how do you ensure that users only have access to the minimum level of data and functionality required to complete their assigned tasks? | We implement least privilege with our Microsoft Azure AD. We make sure that both normal and Admin users only have access to the required resources for their job. |
@@ -21,12 +25,12 @@
 | AC-6(9) | Do you log and analyze the use of privileged functions in your organization?  | Yes. Using Azure Activity logs. (Evaluated)  |
 | AC-6(10) | Do you prevent non-privileged users from executing privileged functions?  | Yes, non-privileged users can only execute functions for their role... Admin functions are only for admins. |
 
-#### NIST AC-6 Compliance Audit Spreadsheet:
+#### Compliance Audit - Findings Spreadsheet:
 ![](images/nist-img2.png)
 
-## Risk Assessment - NIST Least Privilege Controls
+## Risk Assessment
 
 #### Likelihood and Impact Values:
 
-#### NIST AC-6 Risk Assessment Spreadsheet:
+#### Risk Assessment - Findings Spreadsheet:
 ![](images/nist-img3.png)
