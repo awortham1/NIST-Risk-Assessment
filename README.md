@@ -8,8 +8,8 @@
 
 ### Zoom Interview of CISO and IT Manager
 #### Names: 
-* Michael Branch, CISO
-* Kyle Greene, IT Manager
+* Jason Branch, CISO
+* Kathy Johnson, IT Manager
   
 | Control Identifier | Question  | Response  |
 | ------------- | ------------- | ------------- |
