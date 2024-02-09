@@ -28,9 +28,21 @@
 #### Compliance Audit - Findings Spreadsheet:
 ![](images/nist-img2.png)
 
-## Risk Assessment
-
-#### Likelihood and Impact Values:
+### Risk Assessment
 
 #### Risk Assessment - Findings Spreadsheet:
 ![](images/nist-img3.png)
+
+#### Risk Values:
+##### The table below calculates the quantifiable risk based on determined likelihood and impact.
+![](images/risk-values.png)
+
+#### Threat Likelihood Values:
+![](images/threat-likelihood.png)
+
+#### Impact Values:
+![](images/threat-impact.png)
+
+
+
+
