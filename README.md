@@ -2,7 +2,7 @@
 
 ![](images/nist-banner.png)
 
-## Compliance Audit - NIST AC-6 Least Privilege Controls
+## Compliance Audit - NIST Least Privilege Controls
 #### NIST AC-6 Least Privilege Control Catalog:
 ![](images/nist-img1.png)
 
@@ -24,7 +24,7 @@
 #### NIST AC-6 Compliance Audit Spreadsheet:
 ![](images/nist-img2.png)
 
-## Risk Assessment - NIST AC-6 Least Privilege Controls
+## Risk Assessment - NIST Least Privilege Controls
 
 #### Likelihood and Impact Values:
 
