@@ -25,12 +25,12 @@
 | AC-6(9) | Do you log and analyze the use of privileged functions in your organization?  | Yes. Using Azure Activity logs. (Evaluated)  |
 | AC-6(10) | Do you prevent non-privileged users from executing privileged functions?  | Yes, non-privileged users can only execute functions for their role... Admin functions are only for admins. |
 
-#### Compliance Audit - Findings Spreadsheet:
+#### Compliance Audit - Results:
 ![](images/nist-img2.png)
 
 ## Risk Assessment
 
-#### Risk Assessment - Findings Spreadsheet:
+#### Risk Assessment - Results:
 ![](images/nist-img3.png)
 
 #### Risk Values:
