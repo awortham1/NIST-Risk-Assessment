@@ -28,7 +28,7 @@
 #### Compliance Audit - Findings Spreadsheet:
 ![](images/nist-img2.png)
 
-### Risk Assessment
+## Risk Assessment
 
 #### Risk Assessment - Findings Spreadsheet:
 ![](images/nist-img3.png)
